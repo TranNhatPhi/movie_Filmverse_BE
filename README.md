@@ -1,4 +1,4 @@
-# 🎬 MovieFlix - Netflix Clone Platform
+# 🎬 MovieFlix - movie Filmverse BE
 
 ![MovieFlix Logo](https://via.placeholder.com/150x50?text=MovieFlix)  
 *A Netflix-like streaming platform with data integration from OPhim and other APIs*
