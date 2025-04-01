@@ -1,26 +1,29 @@
-# 🎬 Movie Streaming Platform (Tên dự án của bạn)
+# 🎬 MovieFlix - Netflix Clone Platform
 
-![Project Logo](https://via.placeholder.com/150x50?text=Your+Logo)  
-
-**Một nền tảng xem phim trực tuyến tương tự Netflix, tích hợp dữ liệu từ OPhim và các API phổ biến.**
-
----
-
-## 🌟 Tính năng chính
-- **Quản lý phim** (Thêm, sửa, xóa, xem chi tiết)
-- **Crawl dữ liệu từ OPhim** (Phim mới, chi tiết phim, danh sách phim)
-- **API Backend** hoàn chỉnh với Swagger documentation
-- **Tìm kiếm & Lọc phim** (Theo thể loại, năm phát hành, rating...)
-- **Phân trang & Xem phim trực tuyến**
+![MovieFlix Logo](https://via.placeholder.com/150x50?text=MovieFlix)  
+*A Netflix-like streaming platform with data integration from OPhim and other APIs*
 
 ---
 
-## 🛠 technical
-| Backend            | Frontend      | Database      | Crawling       |
-| ------------------ | ------------- | ------------- | -------------- |
-| Node.js (Express)  | React/Next.js | MongoDB       | Axios, Cheerio |
-| Swagger (API docs) | TailwindCSS   | Redis (Cache) | Puppeteer      |
-| JWT Authentication | Zustand/Redux |               |                |
+## 🌟 Key Features
+- **Complete Movie Management** (CRUD operations)
+- **OPhim Data Integration** (Automated crawling for new movies, details, and listings)
+- **RESTful API** with Swagger documentation
+- **Advanced Search & Filtering** (Genre, year, rating, language)
+- **Pagination & Streaming Capabilities**
+- **User Authentication** (JWT-based)
+
+---
+
+## 🛠 Tech Stack
+| Category       | Technologies                 |
+| -------------- | ---------------------------- |
+| **Backend**    | Node.js, Express, Mongoose   |
+| **Frontend**   | React.js, Redux, TailwindCSS |
+| **Database**   | MongoDB, Redis (caching)     |
+| **API Docs**   | Swagger UI                   |
+| **Crawling**   | Axios, Cheerio, Puppeteer    |
+| **Deployment** | Docker, AWS/Heroku           |
 
 ---
 ---
